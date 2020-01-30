@@ -1,0 +1,33 @@
+.form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:2%;
+    
+}
+
+.labels{
+    margin:1% 0%;
+    
+    
+}
+
+.list{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+   
+
+    
+}
+
+.errors{
+    font-size:0.8rem;
+    font-style: italic;
+   
+   
+}
